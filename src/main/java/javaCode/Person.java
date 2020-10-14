@@ -1,9 +1,9 @@
 package javaCode;
 
-public class Person {
+public class
+  Person {
 
 
     int age;
-
-
+    String firstName;
 }
