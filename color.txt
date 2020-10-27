@@ -7,3 +7,4 @@ pink
 purple
 orange
 cyan
+Azure
