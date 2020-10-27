@@ -7,4 +7,8 @@ pink
 purple
 orange
 cyan
+<<<<<<< HEAD
 123456
+=======
+Azure
+>>>>>>> d60ae00e81a1604fcaebbac3930ebe1fcab15ab3
