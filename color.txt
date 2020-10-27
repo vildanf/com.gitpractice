@@ -6,3 +6,4 @@ yellow
 pink
 purple
 orange
+cyan
